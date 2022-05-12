@@ -8,7 +8,7 @@ const fs = require("fs")
 const yml = require("yaml")
 const mf_client = require('mineflayer')
 
-const rpc = require('discord-rich-presence')('972593632232218644')
+const rpc = require('discord-rich-presence')('<Discord App ID Here>')
 // ===========================
 console.log(" ╔╦╗╔═╗╔═╗╔═╗╔═╗╦ ╦╔═╗╔═╗\n".blue +
     "  ║ ║  ║  ╠═╝╠╣ ╠═╣╠╣ ╔═╝\n".blue +
