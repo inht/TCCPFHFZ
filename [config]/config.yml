@@ -1,0 +1,11 @@
+# ╔╦╗╔═╗╔═╗╔═╗╔═╗╦ ╦╔═╗╔═╗
+#  ║ ║  ║  ╠═╝╠╣ ╠═╣╠╣ ╔═╝
+#  ╩ ╚═╝╚═╝╩  ╚  ╩ ╩╚  ╚═╝
+# The Command Repeating For Hypixel For Zeerk
+
+discord_presence: false # default - true
+mojang_auth: true #default - true
+
+# Do Not Change
+timeout: 2000
+version: "1.1.0"
